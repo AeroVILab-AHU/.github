@@ -15,6 +15,8 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 
 </div>
 
+---
+
 - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空天视觉智能
 - 🤝 协作方向 | 积极参与开源项目合作与算法优化
 - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
@@ -30,12 +32,11 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 
 Here are some of our recent contributions to the field.
 
-<!-- 
+
+### <p align="center">✨ Featured Publications ✨</p>
+
 <details>
-  <summary>
-  <font>details</font>
-  </summary>
--->
+  <summary><strong>Click to view our full list of publications</strong></summary>
 
 
 | Name | Pub. | Year | Link | Code | Description |
@@ -52,10 +53,7 @@ Here are some of our recent contributions to the field.
 | ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
 | RFD  |  TGRS  |  2023.06 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
 
-
-<!-- 
 </details>
-  -->
 
 ---
 
