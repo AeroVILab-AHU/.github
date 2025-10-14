@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png" alt="AeroVILab-AHU Logo/Banner" width="600"/>
+  <img src="https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png" alt="AeroVILab-AHU Logo/Banner" width="300"/>
 </p>
 
 <div align="center">
