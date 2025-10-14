@@ -1,4 +1,17 @@
-# Hi there, We are AeroVILab-AHU! 👋
+
+<p align="center">
+  <img src="[URL_TO_YOUR_BANNER_IMAGE](https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png)" alt="AeroVILab-AHU Logo/Banner" width="700"/>
+</p>
+
+<div align="center">
+
+# **AeroVILab - Aerospace Visual Intelligence Laboratory**
+*AeroVILab @ AHU*
+
+我们是专注于空天视觉智能、遥感技术与无人机应用的研究团队。我们致力于开源合作与算法创新，欢迎与我们共同探索前沿科技。
+
+</div>
+
 
 ## 🚀 About Our Lab
 
