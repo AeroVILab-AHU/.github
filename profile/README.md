@@ -16,16 +16,16 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 </div>
 
 
-### - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空天视觉智能
-### - 🤝 协作方向 | 积极参与开源项目合作与算法优化
-### - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
-### - 📧 联系方式 | 邮箱地址: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); 微信: lw2858191255
+#### - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空天视觉智能
+#### - 🤝 协作方向 | 积极参与开源项目合作与算法优化
+#### - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
+#### - 📧 联系方式 | 邮箱地址: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); 微信: lw2858191255
 
   
-### - 🛰️ Research Focus | Remote Sensing & UAV Applications | Aerospace Visual Intelligence
-### - 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
-### - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
-### - 📧 Contacts | Email dddress: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255
+#### - 🛰️ Research Focus | Remote Sensing & UAV Applications | Aerospace Visual Intelligence
+#### - 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
+#### - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
+#### - 📧 Contacts | Email dddress: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255
 
 
 ## <p align="center">✨ Featured Publications ✨</p>
