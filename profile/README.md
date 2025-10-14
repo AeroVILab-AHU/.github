@@ -48,15 +48,6 @@ English Version:
 
 ---
 
-## ⭐ GitHub Star History
-
-![AeroVILab's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeroVILab&show_icons=true&theme=radical)
-
-![AeroVILab's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeroVILab-AHU&hide=contribs,prs)
-
----
-
-
 ## 💬 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections. 
