@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[URL_TO_YOUR_BANNER_IMAGE](https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png)" alt="AeroVILab-AHU Logo/Banner" width="700"/>
+  <img src="https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png" alt="AeroVILab-AHU Logo/Banner" width="700"/>
 </p>
 
 <div align="center">
