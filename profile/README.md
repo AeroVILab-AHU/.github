@@ -50,7 +50,7 @@ English Version:
 
 ## ⭐ GitHub Star History
 
-![AeroVILab's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeroVILab-AHU&show_icons=true&theme=radical)
+![AeroVILab's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeroVILab&show_icons=true&theme=radical)
 
 
 ---
