@@ -1,10 +1,9 @@
-# Hi there, I'm AeroVILab-AHU! 👋
+# Hi there, We are AeroVILab-AHU! 👋
 
-Welcome to my GitHub profile! Here's a bit more about AeroVILab:
-
-## 🚀 About Me
+## 🚀 About Our Lab
 
 中文版：
+AeroVILab（空天视觉智能实验室）致力于推动遥感技术和无人机应用的前沿。我们的使命是开发尖端算法和开源解决方案，以应对现实世界的挑战。我们欢迎合作，并热衷于分享我们的工程实践。
 - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空天视觉智能
 - 🤝 协作方向 | 积极参与开源项目合作与算法优化
 - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
@@ -12,12 +11,15 @@ Welcome to my GitHub profile! Here's a bit more about AeroVILab:
 
 
 English Version:
+AeroVILab (Aerospace Visual Intelligence Laboratory) is dedicated to pushing the frontiers of remote sensing technology and UAV applications. Our mission is to develop cutting-edge algorithms and open-source solutions to address real-world challenges. We welcome collaboration and are passionate about sharing our engineering practices.
 - 🛰️ Research Focus | Remote Sensing & UAV Applications | Aerospace Visual Intelligence
 - 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
 - 📧 Contacts | Email dddress: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255
 
-## Main Projects
+## Publications & Projects
+
+Here are some of our recent contributions to the field.
 
 <!-- 
 <details>
@@ -48,18 +50,6 @@ English Version:
 
 ---
 
-## 💬 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections. 
-
-Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255.
-
-
-
-Thanks for visiting my profile! Have a great day! 😊
-
----
-
 ## 🛠️ Technologies & Tools
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
@@ -74,3 +64,7 @@ Thanks for visiting my profile! Have a great day! 😊
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
+
+
+## 💬 Get in Touch
+We are always open to new opportunities and connections. Feel free to reach out if you want to collaborate on a project, discuss technology, or simply connect!
