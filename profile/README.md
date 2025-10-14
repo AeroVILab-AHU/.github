@@ -1,30 +1,26 @@
 
 <p align="center">
-  <img src="https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png" alt="AeroVILab-AHU Logo/Banner" width="700"/>
+  <img src="https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png" alt="AeroVILab-AHU Logo/Banner" width="600"/>
 </p>
 
 <div align="center">
 
 # **AeroVILab - Aerospace Visual Intelligence Laboratory**
-*AeroVILab @ AHU*
+
+
 
 我们是专注于空天视觉智能、遥感技术与无人机应用的研究团队。我们致力于开源合作与算法创新，欢迎与我们共同探索前沿科技。
 
+Our research team focuses on aerospace visual intelligence, remote sensing, and UAV applications. We are dedicated to driving innovation through open-source collaboration and invite you to explore the frontiers of technology with us.
+
 </div>
 
-
-## 🚀 About Our Lab
-
-中文版：
-AeroVILab（空天视觉智能实验室）致力于推动遥感技术和无人机应用的前沿。我们的使命是开发尖端算法和开源解决方案，以应对现实世界的挑战。我们欢迎合作，并热衷于分享我们的工程实践。
 - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空天视觉智能
 - 🤝 协作方向 | 积极参与开源项目合作与算法优化
 - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
 - 📧 联系方式 | 邮箱地址: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); 微信: lw2858191255
 
-
-English Version:
-AeroVILab (Aerospace Visual Intelligence Laboratory) is dedicated to pushing the frontiers of remote sensing technology and UAV applications. Our mission is to develop cutting-edge algorithms and open-source solutions to address real-world challenges. We welcome collaboration and are passionate about sharing our engineering practices.
+  
 - 🛰️ Research Focus | Remote Sensing & UAV Applications | Aerospace Visual Intelligence
 - 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
