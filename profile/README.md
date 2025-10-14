@@ -28,12 +28,8 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
 - 📧 Contacts | Email dddress: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255
 
-## Publications & Projects
 
-Here are some of our recent contributions to the field.
-
-
-### <p align="center">✨ Featured Publications ✨</p>
+## <p align="center">✨ Featured Publications ✨</p>
 
 <details>
   <summary><strong>Click to view our full list of publications</strong></summary>
