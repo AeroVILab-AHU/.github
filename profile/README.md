@@ -47,7 +47,6 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 | RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | Roads and bridges semantic change detection: dataset and benchmark  | 
 | M4-SAR | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.10931) | [code](https://github.com/wchao0601/M4-SAR) | Optical-SAR fusion object detection: dataset and benchmark | 
 | DSFF-Net | IJON | 2025.05 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972?via%3Dihub) | None | A lightweight network for RS object detection | 
-| LWGANet  |  arXiv  |  2025.01 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
 | DecoupleNet  |  TGRS  |  2024.10 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal lightweight backbone network for RS visual tasks| 
 | ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
 | RFD  |  TGRS  |  2023.06 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
