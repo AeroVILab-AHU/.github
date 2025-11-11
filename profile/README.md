@@ -37,8 +37,10 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| UnravelNet  |  ISPRS  |  2026.01 | [paper](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [code](https://github.com/lwCVer/UnravelNet) | A backbone for enhanced multi-scale and low-quality feature extraction in remote sensing object detection|
+| LWGANet  |  AAAI (Oral)  |  2026 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
 | U3LIE  |  arXiv  |  2025.09 | [arXiv](https://arxiv.org/abs/2509.01373) | [code](https://github.com/lwCVer/U3D_Toolkit) | Unsupervised Ultra-High-Resolution UAV Low-Light Image Enhancement: A Benchmark, Metric and Framework|
-| LEGNet  |  ICCVW  |  2025.07 | [arXiv](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
+| LEGNet  |  ICCVW  |  2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_LEGNet_A_Lightweight_Edge-Gaussian_Network_for_Low-Quality_Remote_Sensing_Image_ICCVW_2025_paper.html) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
 | RRSHID  |  TGRS  |  2025.06 | [arXiv](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
 | MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for road extraction | 
 | RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | Roads and bridges semantic change detection: dataset and benchmark  | 
