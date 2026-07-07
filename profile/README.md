@@ -31,15 +31,25 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 
 ## <p align="center">✨ Featured Publications ✨</p>
 
-<details>
-  <summary><strong>Click to view our full list of publications</strong></summary>
 
-
+### <p align="center">✨ 2026 ✨</p>
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| SARU  |  ISPRS  |  2026.05 | [paper](https://arxiv.org/pdf/2604.25432) | [code and dataset](https://github.com/AeroVILab-AHU/SARU) | A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks|
+| AeroDeshadow  | Arxiv  |  2026.04 | [paper](https://arxiv.org/pdf/2604.15903) | [code and dataset](https://github.com/AeroVILab-AHU/SARU) | Physics-Guided Shadow Synthesis and Penumbra-Aware Deshadowing for Aerospace Imagery |
+| HaLoBuilding  | Arxiv  |  2026.04 | [paper](https://arxiv.org/abs/2604.15088) | [code and dataset](https://github.com/AeroVILab-AHU/HaLoBuilding) | Building Extraction from Remote Sensing Imagery under Hazy and Low-light Conditions: Benchmark and Baseline |
+| LSMD  | Arxiv  |  2026.03 | [paper](https://arxiv.org/pdf/2603.19077) | [code and dataset](https://github.com/AeroVILab-AHU/LSMD) | Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline |
 | UnravelNet  |  ISPRS  |  2026.01 | [paper](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [code](https://github.com/lwCVer/UnravelNet) | A backbone for enhanced multi-scale and low-quality feature extraction in remote sensing object detection|
 | LWGANet  |  AAAI (Oral)  |  2026 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
+
+
+
+
+### <p align="center">✨ 2025 ✨</p>
+
+| Name | Pub. | Year | Link | Code | Description |
+|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | U3LIE  |  arXiv  |  2025.09 | [arXiv](https://arxiv.org/abs/2509.01373) | [code](https://github.com/lwCVer/U3D_Toolkit) | Unsupervised Ultra-High-Resolution UAV Low-Light Image Enhancement: A Benchmark, Metric and Framework|
 | LEGNet  |  ICCVW  |  2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_LEGNet_A_Lightweight_Edge-Gaussian_Network_for_Low-Quality_Remote_Sensing_Image_ICCVW_2025_paper.html) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
 | RRSHID  |  TGRS  |  2025.06 | [arXiv](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
@@ -51,7 +61,6 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 | ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
 | RFD  |  TGRS  |  2023.06 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
 
-</details>
 
 ---
 
