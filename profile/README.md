@@ -1,31 +1,43 @@
 
 <p align="center">
-  <img src="https://github.com/AeroVILab-AHU/.github/blob/main/AeroVILab_github.png" alt="AeroVILab-AHU Logo/Banner" width="300"/>
+  <img src="https://raw.githubusercontent.com/AeroVILab-AHU/.github/main/AeroVILab_github.png" alt="AeroVILab-AHU banner" width="360"/>
 </p>
 
 <div align="center">
 
-# **AeroVILab - Aerospace Visual Intelligence Laboratory**
+# AeroVILab-AHU
+### Aerospace Visual Intelligence Laboratory
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Sibao%20Chen-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com.hk/citations?user=yNE7nkgAAAAJ&hl=zh-CN) [![Email](https://img.shields.io/badge/Email-sbchen%40ahu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sbchen@ahu.edu.cn)  ![WeChat](https://img.shields.io/badge/WeChat-joysbc-07C160?style=flat-square&logo=wechat&logoColor=white)
 
-
-我们是专注于空天视觉智能、遥感技术与无人机应用的研究团队。我们致力于开源合作与算法创新，欢迎与我们共同探索前沿科技。
-
-Our research team focuses on aerospace visual intelligence, remote sensing, and UAV applications. We are dedicated to driving innovation through open-source collaboration and invite you to explore the frontiers of technology with us.
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Wei%20Lu-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com.hk/citations?user=nFJoGIIAAAAJ&hl=zh-CN) [![Email](https://img.shields.io/badge/Email-luwei%40ahu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luwei@ahu.edu.cn)  ![WeChat](https://img.shields.io/badge/WeChat-luwei__ahu-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 </div>
 
 
-#### - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空天视觉智能
-#### - 🤝 协作方向 | 积极参与开源项目合作与算法优化
-#### - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
-#### - 📧 联系方式 | 邮箱地址: [sbchen@ahu.edu.cn](mailto:sbchen@ahu.edu.cn); [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); 微信: joysbc; luwei_ahu
+## About
 
-  
-#### - 🛰️ Research Focus | Remote Sensing & UAV Applications | Aerospace Visual Intelligence
-#### - 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
-#### - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
-#### - 📧 Contacts | Email dddress: [sbchen@ahu.edu.cn](mailto:sbchen@ahu.edu.cn); [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: joysbc; luwei_ahu
+AeroVILab-AHU is the Aerospace Visual Intelligence Laboratory at the School of Computer Science and Technology, Anhui University. Led by Prof. Sibao Chen and managed by postdoc Wei Lu, the lab focuses on aerospace visual intelligence, remote sensing image understanding, efficient deep learning, and low-level vision. We are committed to developing reproducible algorithms, datasets, and open-source tools to advance robust perception and efficient deployment of remote sensing visual models in complex real-world scenarios.
+
+空天视觉智能实验室来自安徽大学计算机科学与技术学院，由陈思宝教授领导、卢维博士后管理。实验室聚焦空天视觉智能、遥感图像理解、高效深度学习与低层视觉任务，致力于构建可复现的算法、数据集与开源工具，推动遥感视觉模型在复杂真实场景中的鲁棒感知与高效部署。
+
+## Research & Collaboration | 研究方向与开放合作
+
+We welcome open collaboration, technical exchange, and reproducible research around aerospace visual intelligence and remote sensing.
+
+我们欢迎围绕空天视觉智能与遥感技术开展开源合作、技术交流与可复现研究。
+
+| Area / 方向 | Focus & Collaboration / 研究内容与合作方向 |
+|:--|:--|
+| **Remote Sensing Perception**<br>遥感视觉感知 | Object detection, semantic segmentation, change detection, road/building extraction<br>目标检测、语义分割、变化检测、道路与建筑物提取 |
+| **Low-Level Aerospace Vision**<br>空天低层视觉 | Dehazing, deshadowing, low-light enhancement, low-quality image understanding<br>去雾、去阴影、低光增强、低质量图像理解 |
+| **Efficient AI**<br>高效人工智能 | Lightweight backbones, robust downsampling, grouped attention, feature decoupling<br>轻量化骨干网络、鲁棒下采样、分组注意力、特征解耦 |
+| **Multimodal Remote Sensing**<br>多模态遥感 | Optical-SAR fusion, UAV imagery, modality-adaptive learning<br>光学-SAR 融合、无人机影像、模态自适应学习 |
+| **Open Benchmarks**<br>开放基准 | Public datasets, reproducible baselines, PyTorch implementations<br>公开数据集、可复现基线、PyTorch 实现 |
+| **Open Collaboration**<br>开放协作 | Open-source projects, algorithm optimization, dataset construction, benchmark evaluation<br>开源项目合作、算法优化、数据集建设、基准评测 |
+| **Technical Exchange**<br>技术交流 | Python/PyTorch engineering, model deployment, remote sensing AI applications<br>Python/PyTorch 工程实践、模型部署、遥感智能应用 |
+| **Contact**<br>联系方式 | Email: [sbchen@ahu.edu.cn](mailto:sbchen@ahu.edu.cn), [luwei@ahu.edu.cn](mailto:luwei@ahu.edu.cn)<br>WeChat: joysbc, luwei_ahu |
+
 
 <br>
 
@@ -34,51 +46,62 @@ Our research team focuses on aerospace visual intelligence, remote sensing, and 
 
 ### <p align="center">✨ 2026 ✨</p>
 
-| Name | Pub. | Year | Link | Code | Description |
-|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| SARU  |  ISPRS  |  2026.05 | [paper](https://arxiv.org/pdf/2604.25432) | [code and dataset](https://github.com/AeroVILab-AHU/SARU) | A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks|
-| AeroDeshadow  | Arxiv  |  2026.04 | [paper](https://arxiv.org/pdf/2604.15903) | [code and dataset](https://github.com/AeroVILab-AHU/SARU) | Physics-Guided Shadow Synthesis and Penumbra-Aware Deshadowing for Aerospace Imagery |
-| HaLoBuilding  | Arxiv  |  2026.04 | [paper](https://arxiv.org/abs/2604.15088) | [code and dataset](https://github.com/AeroVILab-AHU/HaLoBuilding) | Building Extraction from Remote Sensing Imagery under Hazy and Low-light Conditions: Benchmark and Baseline |
-| LSMD  | Arxiv  |  2026.03 | [paper](https://arxiv.org/pdf/2603.19077) | [code and dataset](https://github.com/AeroVILab-AHU/LSMD) | Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline |
-| UnravelNet  |  ISPRS  |  2026.01 | [paper](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [code](https://github.com/lwCVer/UnravelNet) | A backbone for enhanced multi-scale and low-quality feature extraction in remote sensing object detection|
-| LWGANet  |  AAAI (Oral)  |  2026 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
+
+| Project | Venue | Link | Code / Dataset | Focus |
+|:--|:--:|:--:|:--:|:--|
+| M4-SAR | ECCV 26 | [arXiv](https://arxiv.org/abs/2505.10931) | [Code](https://github.com/wchao0601/M4-SAR) | Optical-SAR fusion object detection benchmark |
+| SARU | ISPRS | [ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S0924271626002637)<br>[arXiv](https://arxiv.org/abs/2604.25432) | [Code & Dataset](https://github.com/AeroVILab-AHU/SARU) | Unified shadow detection and removal for remote sensing images |
+| AeroDeshadow | arXiv | [arXiv](https://arxiv.org/abs/2604.15903) | [Code & Dataset](https://github.com/AeroVILab-AHU/AeroDeshadow) | Physics-guided shadow synthesis and penumbra-aware deshadowing |
+| HaLoBuilding | arXiv | [arXiv](https://arxiv.org/abs/2604.15088) | [Code & Dataset](https://github.com/AeroVILab-AHU/HaLoBuilding) | Building extraction under hazy and low-light conditions |
+| LSMD | arXiv | [Paper](https://arxiv.org/abs/2603.19077) | [Code & Dataset](https://github.com/AeroVILab-AHU/LSMD) | Large-scale small-change building change detection |
+| UnravelNet | ISPRS | [ISPRS](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [Code](https://github.com/lwCVer/UnravelNet) | Multi-scale and low-quality feature extraction for object detection |
+| LWGANet | AAAI 26<br>Oral | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/37698/41660)<br>[arXiv](https://arxiv.org/abs/2501.10040) | [Code](https://github.com/AeroVILab-AHU/LWGANet) | Lightweight grouped attention for remote sensing visual tasks |
 
 
 
+### <p align="center">✨ 2025 and Earlier ✨</p>
 
-### <p align="center">✨ 2025 ✨</p>
-
-| Name | Pub. | Year | Link | Code | Description |
-|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| U3LIE  |  arXiv  |  2025.09 | [arXiv](https://arxiv.org/abs/2509.01373) | [code](https://github.com/lwCVer/U3D_Toolkit) | Unsupervised Ultra-High-Resolution UAV Low-Light Image Enhancement: A Benchmark, Metric and Framework|
-| LEGNet  |  ICCVW  |  2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_LEGNet_A_Lightweight_Edge-Gaussian_Network_for_Low-Quality_Remote_Sensing_Image_ICCVW_2025_paper.html) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
-| RRSHID  |  TGRS  |  2025.06 | [arXiv](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
-| MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for road extraction | 
-| RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | Roads and bridges semantic change detection: dataset and benchmark  | 
-| M4-SAR | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.10931) | [code](https://github.com/wchao0601/M4-SAR) | Optical-SAR fusion object detection: dataset and benchmark | 
-| DSFF-Net | IJON | 2025.05 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972?via%3Dihub) | None | A lightweight network for RS object detection | 
-| DecoupleNet  |  TGRS  |  2024.10 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal lightweight backbone network for RS visual tasks| 
-| ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
-| RFD  |  TGRS  |  2023.06 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
-
+| Project | Venue | Link | Code / Dataset | Focus |
+|:--|:--:|:--:|:--:|:--|
+| U3LIE | arXiv | [arXiv](https://arxiv.org/abs/2509.01373) | [Code](https://github.com/AeroVILab-AHU/U3D_Toolkit) | Ultra-high-resolution UAV low-light image enhancement |
+| LEGNet | ICCVW 2025 | [ICCVW](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_LEGNet_A_Lightweight_Edge-Gaussian_Network_for_Low-Quality_Remote_Sensing_Image_ICCVW_2025_paper.html)<br>[arXiv](https://arxiv.org/abs/2503.14012) | [Code](https://github.com/AeroVILab-AHU/LEGNet) | Lightweight edge-Gaussian object detection in low-quality imagery |
+| RRSHID | TGRS | [TGRS](https://ieeexplore.ieee.org/document/11058953)<br>[arXiv](https://arxiv.org/abs/2503.17966) | [Dataset](https://github.com/AeroVILab-AHU/RRSHID) | Real-world remote sensing image dehazing benchmark |
+| MADSNet | TGRS | [TGRS](https://ieeexplore.ieee.org/document/11021615) | [Code](https://github.com/Talent02/MADSNet) | Road extraction from remote sensing imagery |
+| RB-SCD | PR | [Paper](https://arxiv.org/abs/2505.13212) | [Code](https://github.com/DaGuangDaGuang/RB-SCD) | Fine-grained roads and bridges semantic change detection |
+| DSFF-Net | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972) | - | Lightweight oriented object detection |
+| DecoupleNet | TGRS | [TGRS](https://ieeexplore.ieee.org/document/10685518) | [Code](https://github.com/AeroVILab-AHU/DecoupleNet) | Efficient feature decoupling for remote sensing visual tasks |
+| ASGCN | TGRS | [TGRS](https://ieeexplore.ieee.org/document/10574888) | - | Attention-aware graph convolution for change detection |
+| RFD | TGRS | [TGRS](https://ieeexplore.ieee.org/document/10142024) | [Code](https://github.com/AeroVILab-AHU/RFD) | Robust feature downsampling for remote sensing visual tasks |
 
 ---
 
-## 🛠️ Technologies & Tools
+## Open-Source Projects
+
+| Theme | Repositories |
+|:--|:--|
+| Efficient backbones | [RFD](https://github.com/AeroVILab-AHU/RFD), [DecoupleNet](https://github.com/AeroVILab-AHU/DecoupleNet), [LEGNet](https://github.com/AeroVILab-AHU/LEGNet), [LWGANet](https://github.com/AeroVILab-AHU/LWGANet), [UnravelNet](https://github.com/lwCVer/UnravelNet) |
+| Restoration and enhancement | [RRSHID](https://github.com/AeroVILab-AHU/RRSHID), [SARU](https://github.com/AeroVILab-AHU/SARU), [U3D Toolkit](https://github.com/AeroVILab-AHU/U3D_Toolkit) |
+| Datasets and benchmarks | [HaLoBuilding](https://github.com/AeroVILab-AHU/HaLoBuilding), [LSMD](https://github.com/AeroVILab-AHU/LSMD), [M4-SAR](https://github.com/wchao0601/M4-SAR), [RB-SCD](https://github.com/DaGuangDaGuang/RB-SCD) |
+
+## Contact
+
+We welcome collaborations on remote sensing, computer vision, efficient AI, open datasets, and reproducible PyTorch implementations.
+
+| Contact / 联系人 | Links / 链接 |
+|:--|:--|
+| Prof. Sibao Chen<br>陈思宝教授 | [Google Scholar](https://scholar.google.com.hk/citations?user=yNE7nkgAAAAJ&hl=zh-CN)<br>WeChat: joysbc |
+| Dr. Wei Lu<br>卢维博士后 | [Google Scholar](https://scholar.google.com.hk/citations?user=nFJoGIIAAAAJ&hl=zh-CN)<br>WeChat: luwei_ahu |
+| Lab Email<br>实验室邮箱 | [sbchen@ahu.edu.cn](mailto:sbchen@ahu.edu.cn), [luwei@ahu.edu.cn](mailto:luwei@ahu.edu.cn) |
+
+## Technologies
+
 <p align="left">
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
-  <img alt="cmake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" >
-  <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" >
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" >
-  <img alt="vscode" src="https://img.shields.io/badge/vscode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" >
-  <img alt="pycharm" src="https://img.shields.io/badge/pycharm-0078D4?style=flat-square&logo=pycharm&logoColor=white" >
-  <img alt="visualstudio" src="https://img.shields.io/badge/visualstudio-0078D4?style=flat-square&logo=visualstudio&logoColor=white" >
-  <img alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" >
-  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" >
-  <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" >
-  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 </p>
-
-
-## 💬 Get in Touch
-We are always open to new opportunities and connections. Feel free to reach out if you want to collaborate on a project, discuss technology, or simply connect!
