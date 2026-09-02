@@ -50,6 +50,7 @@ We welcome open collaboration, technical exchange, and reproducible research aro
 | Project | Venue | Link | Code / Dataset | Focus |
 |:--|:--:|:--:|:--:|:--|
 | M4-SAR | ECCV 26 | [arXiv](https://arxiv.org/abs/2505.10931) | [Code](https://github.com/wchao0601/M4-SAR) | Optical-SAR fusion object detection benchmark |
+| DSRF-Net | ISPRS | [ISPRS](https://authors.elsevier.com/a/1nim03I9x1yQQy) | [Code & Dataset](https://github.com/AeroVILab-AHU/DSRFNet) | Robust satellite-UAV change detection under fog degradation |
 | SARU | ISPRS | [ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S0924271626002637)<br>[arXiv](https://arxiv.org/abs/2604.25432) | [Code & Dataset](https://github.com/AeroVILab-AHU/SARU) | Unified shadow detection and removal for remote sensing images |
 | AeroDeshadow | arXiv | [arXiv](https://arxiv.org/abs/2604.15903) | [Code & Dataset](https://github.com/AeroVILab-AHU/AeroDeshadow) | Physics-guided shadow synthesis and penumbra-aware deshadowing |
 | HaLoBuilding | arXiv | [arXiv](https://arxiv.org/abs/2604.15088) | [Code & Dataset](https://github.com/AeroVILab-AHU/HaLoBuilding) | Building extraction under hazy and low-light conditions |
