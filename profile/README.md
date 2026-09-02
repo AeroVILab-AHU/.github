@@ -56,7 +56,6 @@ We welcome open collaboration, technical exchange, and reproducible research aro
 | HaLoBuilding | arXiv | [arXiv](https://arxiv.org/abs/2604.15088) | [Code & Dataset](https://github.com/AeroVILab-AHU/HaLoBuilding) | Building extraction under hazy and low-light conditions |
 | LSMD | arXiv | [Paper](https://arxiv.org/abs/2603.19077) | [Code & Dataset](https://github.com/AeroVILab-AHU/LSMD) | Large-scale small-change building change detection |
 | CLNS | PR | [PR](https://doi.org/10.1016/j.patcog.2026.113873) | [Code](https://github.com/AeroVILab-AHU/CLNS) | Camera-aware label noise suppression for unsupervised visible-infrared person re-identification |
-| FTDMamba | arXiv | [arXiv](https://arxiv.org/abs/2601.11254) | [Code & Dataset](https://github.com/AeroVILab-AHU/FTDMamba) | Frequency-assisted temporal modeling for UAV video anomaly detection |
 | ASFR-Net | TGRS | [arXiv](https://arxiv.org/abs/2607.07161) | [Code & Dataset](https://github.com/AeroVILab-AHU/ASFR-Net) | Adversarial spatio-frequency refinement for heterogeneous remote sensing change detection |
 | UnravelNet | ISPRS | [ISPRS](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [Code](https://github.com/lwCVer/UnravelNet) | Multi-scale and low-quality feature extraction for object detection |
 | LWGANet | AAAI 26<br>Oral | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/37698/41660)<br>[arXiv](https://arxiv.org/abs/2501.10040) | [Code](https://github.com/AeroVILab-AHU/LWGANet) | Lightweight grouped attention for remote sensing visual tasks |
