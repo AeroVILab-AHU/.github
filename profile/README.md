@@ -54,6 +54,7 @@ We welcome open collaboration, technical exchange, and reproducible research aro
 | AeroDeshadow | arXiv | [arXiv](https://arxiv.org/abs/2604.15903) | [Code & Dataset](https://github.com/AeroVILab-AHU/AeroDeshadow) | Physics-guided shadow synthesis and penumbra-aware deshadowing |
 | HaLoBuilding | arXiv | [arXiv](https://arxiv.org/abs/2604.15088) | [Code & Dataset](https://github.com/AeroVILab-AHU/HaLoBuilding) | Building extraction under hazy and low-light conditions |
 | LSMD | arXiv | [Paper](https://arxiv.org/abs/2603.19077) | [Code & Dataset](https://github.com/AeroVILab-AHU/LSMD) | Large-scale small-change building change detection |
+
 | UnravelNet | ISPRS | [ISPRS](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [Code](https://github.com/lwCVer/UnravelNet) | Multi-scale and low-quality feature extraction for object detection |
 | LWGANet | AAAI 26<br>Oral | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/37698/41660)<br>[arXiv](https://arxiv.org/abs/2501.10040) | [Code](https://github.com/AeroVILab-AHU/LWGANet) | Lightweight grouped attention for remote sensing visual tasks |
 
@@ -67,8 +68,13 @@ We welcome open collaboration, technical exchange, and reproducible research aro
 | LEGNet | ICCVW 2025 | [ICCVW](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_LEGNet_A_Lightweight_Edge-Gaussian_Network_for_Low-Quality_Remote_Sensing_Image_ICCVW_2025_paper.html)<br>[arXiv](https://arxiv.org/abs/2503.14012) | [Code](https://github.com/AeroVILab-AHU/LEGNet) | Lightweight edge-Gaussian object detection in low-quality imagery |
 | RRSHID | TGRS | [TGRS](https://ieeexplore.ieee.org/document/11058953)<br>[arXiv](https://arxiv.org/abs/2503.17966) | [Dataset](https://github.com/AeroVILab-AHU/RRSHID) | Real-world remote sensing image dehazing benchmark |
 | MADSNet | TGRS | [TGRS](https://ieeexplore.ieee.org/document/11021615) | [Code](https://github.com/Talent02/MADSNet) | Road extraction from remote sensing imagery |
+| CEIL | TCSVT | [TCSVT](https://doi.org/10.1109/TCSVT.2025.3548939) | [Code](https://github.com/maybeextra/CEIL) | Camera-aware unsupervised visible-infrared person re-identification |
+| SDSN | TGRS | [TGRS](https://doi.org/10.1109/TGRS.2025.3543654) | [Code](https://github.com/dpt000121/dpt) | Multi-dimensional Siamese dual-branch remote sensing change detection |
+| DAG-UMB | KBS | [KBS](https://doi.org/10.1016/j.knosys.2025.114598) | [Code & Dataset](https://github.com/maybeextra/DAG-UMB) | Multi-view truck re-identification benchmark and unsupervised learning |
 | RB-SCD | PR | [Paper](https://arxiv.org/abs/2505.13212) | [Code](https://github.com/DaGuangDaGuang/RB-SCD) | Fine-grained roads and bridges semantic change detection |
 | DSFF-Net | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972) | - | Lightweight oriented object detection |
+| STCD | TGRS | [TGRS](https://doi.org/10.1109/TGRS.2024.3484526) | [Code](https://github.com/VCISwang/STCD) | Diffusion-based pseudo-change transfer learning for remote sensing change detection |
+| PGPANet | TGRS | [TGRS](https://doi.org/10.1109/TGRS.2024.3424317) | [Code](https://github.com/AeroVILab-AHU/PGPANet) | Prior-guided principal attention for remote sensing change detection |
 | DecoupleNet | TGRS | [TGRS](https://ieeexplore.ieee.org/document/10685518) | [Code](https://github.com/AeroVILab-AHU/DecoupleNet) | Efficient feature decoupling for remote sensing visual tasks |
 | ASGCN | TGRS | [TGRS](https://ieeexplore.ieee.org/document/10574888) | - | Attention-aware graph convolution for change detection |
 | RFD | TGRS | [TGRS](https://ieeexplore.ieee.org/document/10142024) | [Code](https://github.com/AeroVILab-AHU/RFD) | Robust feature downsampling for remote sensing visual tasks |
